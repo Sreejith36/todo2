@@ -1,0 +1,35 @@
+h1 {
+    color: red;
+}
+
+.Top-section,
+.bottom-section {
+    width: 40%;
+    margin: auto;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.bottom-section {
+    background-color: beige;
+}
+
+ul {
+    list-style-type: none;
+}
+
+p {
+    display: flex;
+    justify-content: space-between;
+    background-color: purple;
+    color: white;
+    margin-bottom: 3%;
+    padding: 8px 15px;
+    border-radius: 8px;
+}
+
+p i {
+    cursor: pointer;
+    align-items: flex-end;
+}
+
